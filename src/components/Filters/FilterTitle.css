@@ -1,0 +1,32 @@
+.filter-inner {
+  width: 100%;
+  height: 70px;
+  display: flex;
+  flex-direction: row;
+  /* justify-content: center; */
+  align-items: center;
+  background-color: #cbcbd3;
+  /* background-color: red; */
+}
+.fa-filter {
+  margin-left: 45px;
+  height: 30px;
+  width: 30px;
+  border-radius: 4px;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #2b3b5c;
+  padding: 1px;
+}
+@media only screen and (max-width: 1280px) {
+  .fa-filter {
+    margin-left: 25px;
+  }
+}
+@media only screen and (max-width: 960px) {
+  .fa-filter {
+    margin-left: 10px;
+  }
+}

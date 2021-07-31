@@ -1,0 +1,46 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  background-color: #e9e9ec;
+  height: 1245px;
+}
+.sidenav {
+  height: 160vh;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  background-color: #383e4c;
+}
+.home {
+  background-color: #e9e9ec;
+}
+.header {
+  height: 65px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  background-color: #383e4c;
+}
+.tab {
+  height: 74vh;
+}
+.MuiInput-underline::before {
+  border-bottom: none;
+  display: none;
+}
+.MuiInput-underline::after {
+  border-bottom: none;
+  display: none;
+}
+.fa-star {
+  height: "26px";
+  width: "26px";
+  border-radius: "5px";
+  background-color: "green";
+  color: "#fff";
+}

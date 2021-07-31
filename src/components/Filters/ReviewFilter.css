@@ -1,0 +1,63 @@
+.apartments {
+  width: 12px;
+  height: 12px;
+  margin-right: 10px;
+  border-radius: 50%;
+  background-color: red;
+}
+.apartment-guide {
+  width: 12px;
+  height: 12px;
+  margin-right: 10px;
+  border-radius: 50%;
+  background-color: black;
+}
+.apartment-ratings {
+  width: 12px;
+  height: 12px;
+  margin-right: 10px;
+  border-radius: 50%;
+  background-color: blue;
+}
+.facebook {
+  width: 12px;
+  height: 12px;
+  margin-right: 10px;
+  border-radius: 50%;
+  background-color: lightblue;
+}
+.google {
+  width: 12px;
+  height: 12px;
+  margin-right: 10px;
+  border-radius: 50%;
+  background-color: orange;
+}
+.modern-message {
+  width: 12px;
+  height: 12px;
+  margin-right: 10px;
+  border-radius: 50%;
+  background-color: gray;
+}
+.rent {
+  width: 12px;
+  height: 12px;
+  margin-right: 10px;
+  border-radius: 50%;
+  background-color: darkblue;
+}
+.yellow-pages {
+  width: 12px;
+  height: 12px;
+  margin-right: 10px;
+  border-radius: 50%;
+  background-color: orange;
+}
+.yelp {
+  width: 12px;
+  height: 12px;
+  margin-right: 10px;
+  border-radius: 50%;
+  background-color: green;
+}

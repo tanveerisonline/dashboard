@@ -1,0 +1,11 @@
+.filter {
+  margin-top: 73px;
+  width: 301px;
+  height: 100vh;
+  overflow-y: scroll;
+}
+@media only screen and (max-width: 1280px) {
+  .filter {
+    overflow-x: hidden;
+  }
+}
